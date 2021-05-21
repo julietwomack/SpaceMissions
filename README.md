@@ -22,7 +22,7 @@ The analysis intends to answer the following questions:
 2. From those 5 countries in Question 1, how many missions have been successful or failed?
 3. For space missions launched from the USA, which state has launched the most space missions?
 
-**Datum**](#analysis-on-datum)
+**Datum**
 1. Which years had the most space missions (top 10)? 
 And for the year with the most space missions, was there anything particularly special about this year?
 2. Which year (since 1957) had the most successes? Most failures?
