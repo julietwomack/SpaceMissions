@@ -13,7 +13,7 @@ The analysis is of personal interest to me due to my fascination with space expl
 
 <p>
 
-[Click here to access the full analysis and write-up.]((https://github.com/julietwomack/SpaceMissions/blob/main/Space-Mission-Exploratory-Analysis.ipynb))
+[**Click here to access the full analysis and write-up.**](https://github.com/julietwomack/SpaceMissions/blob/main/Space-Mission-Exploratory-Analysis.ipynb)
     
 </p>
 
