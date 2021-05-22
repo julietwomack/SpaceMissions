@@ -9,7 +9,13 @@ This notebook is an exploratory analysis on the Kaggle dataset, "[All Space Miss
 - Plotly
 - Tabulate
 
-The analysis is of personal interest to me due to my fascination with space exploration. In the analysis I attempt to utilize all columns of the data to create a comprehensive analysis of global space missions since 1957, which is the year the Sovient Union launched the first satellite into space, Sputnik [(archives.gov)](https://www.archives.gov/research/alic/reference/space-timeline.html).
+The analysis is of personal interest to me due to my fascination with space exploration. In the analysis I attempt to utilize all columns of the data to create a comprehensive analysis of global space missions since 1957, which is the year the Sovient Union launched the first satellite into space, Sputnik [(archives.gov)](https://www.archives.gov/research/alic/reference/space-timeline.html). 
+
+<p>
+
+[Click here to access the full analysis and write-up.]((https://github.com/julietwomack/SpaceMissions/blob/main/Space-Mission-Exploratory-Analysis.ipynb))
+    
+</p>
 
 
 # Analysis Questions
@@ -59,3 +65,5 @@ The analysis intends to answer the following questions:
 <p>
 
 **[The full analysis and write-up can be read in the Jupyter Notebook.](https://github.com/julietwomack/SpaceMissions/blob/main/Space-Mission-Exploratory-Analysis.ipynb)**
+    
+</p>
